@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Care Store</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet"/>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="login">
+        <div>
+          <p>Free shipping, 30 days return or refund guarantee</p>
+        </div>
+        <div>
+          <a href="login.html">Log In</a>
+          <a href="signup.html">Sign Up</a>
+        </div>
+      </div>
+    </header>
+    <nav>
+      <div class="logo">
+        <img src="img/logo.png">
+      </div>
+      <div class="links">
+        <a href="index.html">Home</a>
+        <a href="shop.html">Shop</a>
+        <a href="blog.html">Blog</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">contact</a>
+        <a href="addtocart.html"><i class="ri-shopping-cart-2-line"></i></a>
+        <button id="logoutBtn" style="display: none;">Logout</button>
+      </div>
+    </nav>
+    <section class="bannner3">
+      <div class="banner3">
+        <img src="img/banner/b1.jpg">
+        <div class="shop_text">
+          <h1>#stayhome</h1>
+          <p>save more with coupens & up to 70% off </p>
+        </div>
+      </div>
+    </section>
+    <div class="cartText">
+      <h1>Featured Products</h1>
+      <p>Summer Collection New Modern Design</p>
+    </div>
+
+    <section class="show_cart">
+      <div class="cart2">
+        <div class="productContainer3"></div>
+
+          <div class="page_bar">
+            <button class="pre">previous</button>
+            <div class="pages">
+              
+            </div>
+            <button class="next">next</button>
+          </div>
+
+      </div>
+    </section>
+
+    <template id="productTemp">
+      <div class="card" id="cardvalue">
+        <article class="information [card]">
+          <div class="pic">
+            <img src="" class="img">
+          </div>
+          <p class="brands"></p>
+          <h4 class="product_name"></h2>
+            <div class="rating">
+              <i class="ri-star-s-fill"></i>
+              <i class="ri-star-s-fill"></i>
+              <i class="ri-star-s-fill"></i>
+              <i class="ri-star-s-fill"></i>
+              <i class="ri-star-s-fill"></i>
+            </div>
+            <div class="last">
+              <p class="price"></p>
+              <button class="addToCart"><i class="ri-shopping-cart-2-line"></i></button>
+            </div>
+        </article>
+      </div>
+    </template>
+
+  <div class="newsletters">
+      <div class="text3">
+        <h2>Sign Up For Newsletter</h2>
+        <p>get e-mail updates about our latest shop and <span>special offer</span></p>
+      </div>
+      <div class="input">
+        <input type="text" placeholder="Your Email address">
+        <button>Sign Up</button>
+      </div>
+  </div>
+
+  <footer>
+    <div class="footer-container">
+        <div class="footer-section">
+            <img src="img/logo.png">
+            <h3>Contact</h3>
+            <p><strong>Address:</strong> 562 Wellington Road, Street 32, San Francisco</p>
+            <p><strong>Phone:</strong> +01 2222 365 / (+91) 01 2345 6789</p>
+            <p><strong>Hours:</strong> 10:00 - 18:00, Mon - Sat</p>
+            <div class="social-icons">
+                <a href="#"><i class="ri-facebook-fill"></i></a>
+                <a href="#"><i class="ri-twitter-fill"></i></a>
+                <a href="#"><i class="ri-instagram-fill"></i></a>
+                <a href="#"><i class="ri-pinterest-fill"></i></a>
+                <a href="#"><i class="ri-youtube-fill"></i></a>
+            </div>
+        </div>
+        <div class="footer-section">
+            <h3>About</h3>
+            <ul>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Delivery Information</a></li>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">Terms & Conditions</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </div>
+        <div class="footer-section">
+            <h3>My Account</h3>
+            <ul>
+                <li><a href="#">Sign In</a></li>
+                <li><a href="#">View Cart</a></li>
+                <li><a href="#">My Wishlist</a></li>
+                <li><a href="#">Track My Order</a></li>
+                <li><a href="#">Help</a></li>
+            </ul>
+        </div>
+        <div class="footer-section">
+            <h3>Install App</h3>
+            <p>From App Store or Google Play</p>
+            <div class="app-buttons">
+                <img src="img/pay/app.jpg">
+                <img src="img/pay/play.jpg">
+            </div>
+            <h3>Secured Payment Gateways</h3>
+            <div class="payment-icons">
+                <img src="img/pay/pay.png">
+            </div>
+        </div>
+    </div>
+</footer>
+</div>
+  <script type="module" src="/main_shop.js"></script>
+  <script type="module" src="/nav.js"></script>
+</body>
+</html>
