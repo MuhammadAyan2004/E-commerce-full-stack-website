@@ -1,0 +1,432 @@
+{
+        "id":1,
+        "img": "img/products/f1.jpg",
+        "name":"Urban Vibes Tee",
+        "price":25,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":2,
+        "img": "img/products/f2.jpg",
+        "name":"StreetStyle Graphic Tee",
+        "price":30,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":3,
+        "img": "img/products/f3.jpg",
+        "name":"Monochrome Magic Tee",
+        "price":20,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":4,
+        "img": "img/products/f4.jpg",
+        "name":"Everyday Essential Tee",
+        "price":22,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":5,
+        "img": "img/products/f5.jpg",
+        "name":"Bold Statement Tee",
+        "price":28,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":6,
+        "img": "img/products/f6.jpg",
+        "name":"Minimalist Comfort T-Shirt",
+        "price":26,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":7,
+        "img": "img/products/f7.jpg",
+        "name":"Trouser",
+        "price":35,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":8,
+        "img": "img/products/f8.jpg",
+        "name":"Floral Breeze Kurti",
+        "price":40,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":9,
+        "img": "img/products/n1.jpg",
+        "name":"Elegant Ethnic Kurti",
+        "price":38,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":10,
+        "img": "img/products/n2.jpg",
+        "name":"Chic Embroidery Kurti",
+        "price":45,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":11,
+        "img": "img/products/n3.jpg",
+        "name":"Pastel Glow Kurti",
+        "price":42,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":12,
+        "img": "img/products/n4.jpg",
+        "name":"Premium Luxe Cotton Tee",
+        "price":32,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":13,
+        "img": "img/products/n5.jpg",
+        "name":"Retro Wave T-Shirt",
+        "price":27,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":14,
+        "img": "img/products/n6.jpg",
+        "name":"Premium Short for Men",
+        "price":30,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":15,
+        "img": "img/products/n7.jpg",
+        "name":"Classic Cotton Crew",
+        "price":24,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":16,
+        "img": "img/products/n8.jpg",
+        "name":"ChillFit Oversized Tee",
+        "price":29,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":1,
+        "img": "img/products/f1.jpg",
+        "name":"Urban Vibes Tee",
+        "price":25,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":2,
+        "img": "img/products/f2.jpg",
+        "name":"StreetStyle Graphic Tee",
+        "price":30,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":3,
+        "img": "img/products/f3.jpg",
+        "name":"Monochrome Magic Tee",
+        "price":20,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":4,
+        "img": "img/products/f4.jpg",
+        "name":"Everyday Essential Tee",
+        "price":22,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":5,
+        "img": "img/products/f5.jpg",
+        "name":"Bold Statement Tee",
+        "price":28,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":6,
+        "img": "img/products/f6.jpg",
+        "name":"Minimalist Comfort T-Shirt",
+        "price":26,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":7,
+        "img": "img/products/f7.jpg",
+        "name":"Trouser",
+        "price":35,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":8,
+        "img": "img/products/f8.jpg",
+        "name":"Floral Breeze Kurti",
+        "price":40,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":9,
+        "img": "img/products/n1.jpg",
+        "name":"Elegant Ethnic Kurti",
+        "price":38,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":10,
+        "img": "img/products/n2.jpg",
+        "name":"Chic Embroidery Kurti",
+        "price":45,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":11,
+        "img": "img/products/n3.jpg",
+        "name":"Pastel Glow Kurti",
+        "price":42,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":12,
+        "img": "img/products/n4.jpg",
+        "name":"Premium Luxe Cotton Tee",
+        "price":32,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":13,
+        "img": "img/products/n5.jpg",
+        "name":"Retro Wave T-Shirt",
+        "price":27,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":14,
+        "img": "img/products/n6.jpg",
+        "name":"Premium Short for Men",
+        "price":30,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":15,
+        "img": "img/products/n7.jpg",
+        "name":"Classic Cotton Crew",
+        "price":24,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":16,
+        "img": "img/products/n8.jpg",
+        "name":"ChillFit Oversized Tee",
+        "price":29,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":1,
+        "img": "img/products/f1.jpg",
+        "name":"Urban Vibes Tee",
+        "price":25,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":2,
+        "img": "img/products/f2.jpg",
+        "name":"StreetStyle Graphic Tee",
+        "price":30,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":3,
+        "img": "img/products/f3.jpg",
+        "name":"Monochrome Magic Tee",
+        "price":20,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":4,
+        "img": "img/products/f4.jpg",
+        "name":"Everyday Essential Tee",
+        "price":22,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":5,
+        "img": "img/products/f5.jpg",
+        "name":"Bold Statement Tee",
+        "price":28,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":6,
+        "img": "img/products/f6.jpg",
+        "name":"Minimalist Comfort T-Shirt",
+        "price":26,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":7,
+        "img": "img/products/f7.jpg",
+        "name":"Trouser",
+        "price":35,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":8,
+        "img": "img/products/f8.jpg",
+        "name":"Floral Breeze Kurti",
+        "price":40,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":9,
+        "img": "img/products/n1.jpg",
+        "name":"Elegant Ethnic Kurti",
+        "price":38,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":10,
+        "img": "img/products/n2.jpg",
+        "name":"Chic Embroidery Kurti",
+        "price":45,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":11,
+        "img": "img/products/n3.jpg",
+        "name":"Pastel Glow Kurti",
+        "price":42,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":12,
+        "img": "img/products/n4.jpg",
+        "name":"Premium Luxe Cotton Tee",
+        "price":32,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":13,
+        "img": "img/products/n5.jpg",
+        "name":"Retro Wave T-Shirt",
+        "price":27,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":14,
+        "img": "img/products/n6.jpg",
+        "name":"Premium Short for Men",
+        "price":30,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":15,
+        "img": "img/products/n7.jpg",
+        "name":"Classic Cotton Crew",
+        "price":24,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    },
+    {
+        "id":16,
+        "img": "img/products/n8.jpg",
+        "name":"ChillFit Oversized Tee",
+        "price":29,
+        "brand":"adidas",
+        "stock":50,
+        "details":"Stay stylish and comfortable with our Classic Cotton T-Shirt. Crafted from premium quality 100% breathable cotton, this t-shirt is perfect for everyday wear. Soft on the skin, lightweight, and designed for a perfect fit."
+    }
