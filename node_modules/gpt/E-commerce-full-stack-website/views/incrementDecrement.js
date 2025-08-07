@@ -35,7 +35,11 @@ export const incrementDecrement = (event,id,stock,price)=>{
     }
     localStoragePrice = (price * quantity).toFixed(2)
 
-    let updatedArray = {id,price:localStoragePrice,quantity}
+    let updatedArray = {
+        id,
+        price:localStoragePrice,
+        quantity
+    }
         updatedArray = arrFromLS.map((currelem)=>{
         return currelem.id === id ? updatedArray : currelem
     });
